@@ -4,10 +4,7 @@
 
 This repository is released under the TCP-Style Usage Handshake License.
 
-Before using this repository, you must open a GitHub Issue and complete the
-three-way handshake process described in the LICENSE file. After finishing use,
-you must report the full usage process through the four-way wave process in the
-same issue.
+Before using this repository, you must follow the process described in the LICENSE file. 
 
 ## TCP-Style Executable Usage License (TEUL)
 
@@ -117,24 +114,3 @@ Any of the following constitutes violation of this license:
 Any violation automatically terminates all permissions granted under this
 license.
 
-===============================================================================
-7. No Warranty
-===============================================================================
-
-THE REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
-ARISING FROM USE OF THE REPOSITORY.
-
-===============================================================================
-8. Protocol Philosophy
-===============================================================================
-
-This license intentionally models repository usage as a traceable executable
-communication protocol inspired by TCP connection establishment and
-termination semantics.
-
-The goal of this license is not merely permission management, but lifecycle
-accountability, downstream observability, and reconstructable information flow.
